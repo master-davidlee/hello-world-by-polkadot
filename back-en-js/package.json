@@ -1,0 +1,14 @@
+{
+    "name": "getthelastestheight",
+    "version": "1.0.0",
+    "description": "get the block height",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Arash Fatahzade",
+    "license": "ISC",
+    "dependencies": {
+      "@polkadot/api": "^2.2.1"
+    }
+  }
