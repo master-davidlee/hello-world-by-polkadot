@@ -4,8 +4,9 @@ use crate::contracts;
 use crate::types::TxRef;
 use crate::TransactionStatus;
 use crate::contracts::{AccountIdWrapper};
-use crate::std::collections::{BTreeMap, Vec};
-use crate::std::strings;
+use crate::std::collections::{BTreeMap};
+use crate::std::string::String;
+use crate::std::vec::Vec;
 
 /// HelloWorld contract states.
 #[derive(Serialize, Deserialize, Debug, Default)]
@@ -55,7 +56,7 @@ pub enum Response {
     /// Returns those files
     GetFiles{
         file:Vec<String>,
-    }
+    },
     /// Something wrong happened
     Error(Error)
 }
@@ -75,7 +76,7 @@ impl contracts::Contract<Command, Request, Response> for HelloWorld {
     // Handles the commands from transactions on the blockchain. This method doesn't respond.
     fn handle_command(&mut self, _origin: &chain::AccountId, _txref: &TxRef, cmd: Command) -> TransactionStatus {
         match cmd {
-            let current_user = AccountIdWrapper(_origin.clone());
+            
             // Handle the `Increment` command with one parameter
             Command::Increment { value } => {
                 // Simply increment the counter by some value.
@@ -84,16 +85,17 @@ impl contracts::Contract<Command, Request, Response> for HelloWorld {
                 TransactionStatus::Ok
             },
             /// Handle AddFils with the file ipfs addresses
-            Command::AddFils{address} =>{
-
+            Command::AddFile{address} =>{
+                let current_user = AccountIdWrapper(_origin.clone());
                 if self.files.contains_key(&current_user){
                     //add new file to 
-                self.files.get(&current_user).append(address);
+                self.files.get_mut(&current_user).unwrap().push(address);
                 }
                 else{
                     self.files.insert(current_user, vec![]);
                 }
-            }
+                TransactionStatus::Ok
+            },
         }
     }
 
