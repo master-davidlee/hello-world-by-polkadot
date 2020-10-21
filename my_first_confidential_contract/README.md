@@ -1,4 +1,4 @@
-##I finish a dapp called secret file box.
+I finish a dapp called secret file box.
 
 User can upload file ipfs address and only user can access those address.
 
@@ -15,12 +15,11 @@ Upload file
 Get all files
 ![img](https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/my_first_confidential_contract/imgs/get_all_files.png)
 
+The discord share
+![img](https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/my_first_confidential_contract/imgs/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202020-10-21%20122547.png)
+
 The tweet
 https://twitter.com/davidle25576264/status/1318768744307388416
-
-
-The discord share
-
 
 
 The contract repo
