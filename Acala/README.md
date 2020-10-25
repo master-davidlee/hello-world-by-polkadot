@@ -7,4 +7,4 @@ https://github.com/master-davidlee/substrate-node-template/commit/a4193344dec856
 
 
 The UI screen shoot
-
+![img](https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/Acala/img/check_every_token.png)
