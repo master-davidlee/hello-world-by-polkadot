@@ -1,22 +1,20 @@
-const { ApiPromise, WsProvider } = require("@polkadot/api");
+ 
+const { ApiPromise, WsProvider } = require('@polkadot/api');
 
-async function main() {
-  const api = await ApiPromise.create();
+const main = async () => {
+    const wsProvider = new WsProvider('wss://rpc.polkadot.io');
+    const api = await ApiPromise.create({ provider: wsProvider });
 
-  let blockHash = process.argv.slice(2);
-
-  if (blockHash.length === 0) {
-    blockHash = await api.rpc.chain.getFinalizedHead();
-  } else if (blockHash.length == 1) {
-    blockHash = blockHash[0];
-  } else {
-    return -1;
-  }
-
-  const block = await api.rpc.chain.getBlock(blockHash);
-  console.log(JSON.stringify(block, null, 2));
+    // Retrieve the latest header
+    const lastHeader = await api.rpc.chain.getHeader();
+    const number = lastHeader.number.toString();
+    const hash = lastHeader.hash.toString();
+    const parentHash = lastHeader.parentHash.toString();
+    const stateRoot = lastHeader.stateRoot.toString();
+    const extrinsicsRoot = lastHeader.extrinsicsRoot.toString();
+    console.log(` Latest block:${number} \n Hash: ${hash} \n Parent hash: ${parentHash} \n Parent hash: ${stateRoot} \n Extrinsic root: ${extrinsicsRoot}`);
 }
 
-main()
-  .catch(console.error)
-  .finally(() => process.exit());
+main().catch(err => {
+    console.log(err)
+}).finally(() => process.exit());
