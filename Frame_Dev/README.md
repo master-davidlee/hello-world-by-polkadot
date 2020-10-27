@@ -12,8 +12,8 @@ This is update the name
 This is update the id Number
 ![img](https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/Frame_Dev/img/Set_user_id.png)
 
-The node-template code change
+The node-template code change:
 https://github.com/master-davidlee/substrate-node-template/commit/0d5005e047b52e58e2787cc4873c169ec68420f9#diff-f191d0eb0afa874a64fb9be550a275f957e220b9076c87d4085c2797ca4e310c
 
-The front-end code change
-https://github.com/substrate-developer-hub/substrate-front-end-template/commit/a127d19d6d83d7c057aa2e0a7287af981922ce9f
+The front-end code repo:
+https://github.com/master-davidlee/substrate-front-end-template/tree/frame_dev/src
