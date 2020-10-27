@@ -1,0 +1,9 @@
+/home/ipfs/hello-world-by-polkadot/Erc20/LOL/target/release/deps/libparity_scale_codec_derive-82ef1ee3f3ad8c5f.so: /home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/lib.rs /home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/decode.rs /home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/encode.rs /home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/utils.rs /home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/trait_bounds.rs
+
+/home/ipfs/hello-world-by-polkadot/Erc20/LOL/target/release/deps/parity_scale_codec_derive-82ef1ee3f3ad8c5f.d: /home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/lib.rs /home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/decode.rs /home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/encode.rs /home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/utils.rs /home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/trait_bounds.rs
+
+/home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/lib.rs:
+/home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/decode.rs:
+/home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/encode.rs:
+/home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/utils.rs:
+/home/ipfs/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/parity-scale-codec-derive-1.2.2/src/trait_bounds.rs:
