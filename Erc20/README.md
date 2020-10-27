@@ -5,7 +5,10 @@ The node repo link is :https://github.com/master-davidlee/substrate-node-templat
 
 
 
-The ui repo link is:
+The ui repo link is:https://github.com/master-davidlee/substrate-front-end-template
+
+
+The contract link is:
 
 
 
