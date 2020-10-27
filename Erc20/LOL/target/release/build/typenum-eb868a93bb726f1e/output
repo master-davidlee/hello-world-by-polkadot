@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ipfs/hello-world-by-polkadot/Erc20/LOL/target/release/build/typenum-eb868a93bb726f1e/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/ipfs/hello-world-by-polkadot/Erc20/LOL/target/release/build/typenum-eb868a93bb726f1e/out/op.rs
