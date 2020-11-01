@@ -7,7 +7,7 @@ This is the uninlitialize state
 
 
 This is update the name
-![img](https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/Frame_Dev/img/Set_user_name.png)
+![img](https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/Frame_Dev/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202020-11-01%20220923.png)
 
 This is update the id Number
 ![img](https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/Frame_Dev/img/Set_user_id.png)
