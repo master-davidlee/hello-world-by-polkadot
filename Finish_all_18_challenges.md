@@ -85,7 +85,7 @@ submission link:  https://github.com/master-davidlee/hello-world-by-polkadot/blo
 ********
 
 
-#13 [INTERMEDIATE CHALLENGE] FRAME Development   (unfinish)
+#13 [INTERMEDIATE CHALLENGE] FRAME Development      
 task page:        https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933   
 submission link:  https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/Frame_Dev/README.md
 
