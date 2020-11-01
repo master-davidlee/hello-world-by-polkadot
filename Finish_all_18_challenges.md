@@ -11,6 +11,7 @@ You can first click the task page search my github name "master-davidlee".Then c
 
 
 #1 [BEGINNER CHALLENGE] Launch A Local Substrate Development Chain
+
 task page:        https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/17/100023943
 submission link:  https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/launch%20a%20loacl%20chain.png
 
