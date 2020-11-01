@@ -16,18 +16,33 @@ submission link:  https://github.com/master-davidlee/hello-world-by-polkadot/blo
 
 *******
 
-##2 [BEGINNER CHALLENGE] Run A Private Substrate Network
-task page:        https:  //gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942
+##2 [BEGINNER CHALLENGE] Run A Private Substrate Network   
+task page:        https:  //gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942   
 submission link:  https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/run-a-private-network.png
 
 ********
 
-##3 [BEGINNER CHALLENGES] Play With Westend
-task page:        https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/15/100023941
+##3 [BEGINNER CHALLENGES] Play With Westend   
+task page:        https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/15/100023941   
 submission link:  https://westend.subscan.io/extrinsic/2657743-2
 
 ********
 
+##4 [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version   
+task page:        https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/11/100023937   
+submission link:  https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/set_on_chain_id.png
 
+********
 
+##5 [ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam   
+task page:        https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/3/100023962   
+submission link:  https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/moon/README.md
+
+********
+
+##6 [BEGINNER CHALLENGES] Back-End Javascript   
+task page:        https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/13/100023939   
+submission link:  https://github.com/master-davidlee/hello-world-by-polkadot/tree/main/back-en-js
+
+********
 
