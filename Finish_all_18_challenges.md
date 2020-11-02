@@ -18,7 +18,7 @@ submission link:  https://github.com/master-davidlee/hello-world-by-polkadot/blo
 *******
 
 #2 [BEGINNER CHALLENGE] Run A Private Substrate Network   
-task page:        https:  //gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942   
+task page:        https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/16/100023942       
 submission link:  https://github.com/master-davidlee/hello-world-by-polkadot/blob/main/run-a-private-network.png
 
 ********
